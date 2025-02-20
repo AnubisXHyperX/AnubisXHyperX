@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working on B2B Projects<br><br>Experienced in Next.js
 
 
@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=AnubisXHyperX&icon=0&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/YitzhackX) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YitzhackX) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
