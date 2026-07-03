@@ -95,8 +95,17 @@ const yitzhack = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnubisXHyperX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubisXHyperX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubisXHyperX&theme=tokyonight" alt="profile summary" />
+
+<br/><br/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnubisXHyperX&theme=tokyonight" alt="stats" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnubisXHyperX&theme=tokyonight" alt="top langs" />
+
+<br/><br/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnubisXHyperX&theme=tokyonight" alt="most used languages" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnubisXHyperX&theme=tokyonight&utcOffset=2" alt="productive time" />
 
 <br/><br/>
 
@@ -106,23 +115,12 @@ const yitzhack = {
 
 <br/>
 
-<!-- ====== TROPHIES ====== -->
-## 🏆 GitHub Trophies
+<!-- ====== ACTIVITY GRAPH ====== -->
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnubisXHyperX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ====== TOP REPO ====== -->
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AnubisXHyperX&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top repos" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubisXHyperX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 
 </div>
 
