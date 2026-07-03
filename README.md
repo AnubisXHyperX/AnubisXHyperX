@@ -104,11 +104,6 @@ const yitzhack = {
 
 <br/><br/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnubisXHyperX&theme=tokyonight" alt="most used languages" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnubisXHyperX&theme=tokyonight&utcOffset=2" alt="productive time" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubisXHyperX&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
